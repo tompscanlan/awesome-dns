@@ -27,7 +27,7 @@
 # Relevant Projects
 
 * [zonemaster](https://github.com/dotse/zonemaster/)
-* [dnssec-monitor](https://github.com/dotse/dnssec-monitor)
+* [dnssec-monitor](https://github.com/pawal/dnssec-monitor)
 * [dnstwist](https://github.com/elceef/dnstwist/)
 * [octodns](https://github.com/github/octodns/)
 * [opendnssec](https://github.com/opendnssec/opendnssec)
@@ -36,7 +36,7 @@
 * [nmap dns-fuzz](https://nmap.org/nsedoc/scripts/dns-fuzz.html)
 * [Yeti DNS](https://yeti-dns.org/)
 * [NicTool](https://github.com/msimerson/NicTool)
-* [cullum/dank-selfhosted](https://github.com/cullum/dank-selfhosted/tree/master/roles/nsd)
+* [jokalee/dank-selfhosted](https://github.com/jokalee/dank-selfhosted/tree/master/roles/nsd)
 * [atomiadns](https://github.com/atomia/atomiadns)
 * [dnsjava](https://github.com/dnsjava/dnsjava)
 
